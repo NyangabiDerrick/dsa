@@ -2,6 +2,7 @@
 # Stack - LIFO (Last In, First Out) data structure
 # O(1) time complexity for push, pop, and peek operations
 
+
 class Stack:
     """Stack implementation using Python list"""
     def __init__(self):
